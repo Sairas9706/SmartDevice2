@@ -98,6 +98,16 @@ void Controller::setView(View* view)
 	this->view = view;
 }
 
+void Controller::setTemperature(float temp)
+{
+
+}
+
+float Controller::getTemperature() const
+{
+
+}
+
 //void Controller::setTemperature(float temp)
 //{
 //	model->setTemperature(temp);
