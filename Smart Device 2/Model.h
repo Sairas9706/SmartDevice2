@@ -80,6 +80,8 @@ public:
 
 	void run();
 
+
+	//asdkasdkasd
 private:
 	Model* model;
 	View* view;
