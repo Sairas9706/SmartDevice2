@@ -144,6 +144,7 @@ void Controller::run()
 	}
 }
 
+/*
 int main()
 {
 	Model* model = new Model;
@@ -157,4 +158,4 @@ int main()
 	delete view;
 	return 0;
 }
-
+*/
