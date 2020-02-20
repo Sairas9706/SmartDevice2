@@ -32,6 +32,8 @@ public:
 		//Return value indicating success or failure
 	}
 
+	//feature
+
 private:
 
 	std::string name;
