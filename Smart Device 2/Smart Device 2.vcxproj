@@ -126,8 +126,17 @@
     <ClCompile Include="Main source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="authenticationInfo.h" />
+    <ClInclude Include="Authenticator.h" />
+    <ClInclude Include="Authorization.h" />
+    <ClInclude Include="Builder.h" />
+    <ClInclude Include="Controller.h" />
     <ClInclude Include="Model.h" />
+    <ClInclude Include="ResourceFactory.h" />
+    <ClInclude Include="Sensors.h" />
+    <ClInclude Include="Subject.h" />
     <ClInclude Include="User.h" />
+    <ClInclude Include="View.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
